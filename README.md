@@ -1,1 +1,3 @@
 # WumpusWorld
+This project simulates the classic Wumpus World game which is often used as an example in teaching artifical intelligence.  It involves the random generation of an environment and the creation of an entity which is able to traverse the environment by learning and building its knowledge of the afromentioned environment.\
+I have included three different modes in this version.  The first mode randomly generates a map.  The second mode randomly generates a map and allows the user to play the game.  The third mode randomly generates a map and creates an entity that will attempt to win the game.
